@@ -1,6 +1,6 @@
 ---
 title: "All About that Rebase"
-date: 2018-04-11T00:00:00.000Z
+date: 2020-01-22T20:20:00Z
 description: >-
   Squashing some common Git merge patterns
 ---
