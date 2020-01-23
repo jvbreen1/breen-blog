@@ -51,9 +51,6 @@ export default class PostPreview extends React.Component {
                 <p>{entry.getIn(["data", "values", "text"])}</p>
               </div>
 
-              <div className="w-60-l ph2-l">
-                <img src="/img/home-about-section.jpg" alt="" className="mb3"/>
-              </div>
             </div>
 
             <div className="tc">
