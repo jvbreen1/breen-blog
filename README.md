@@ -1,5 +1,7 @@
 # John Breen's blog
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dc12e51f-4fcc-4e2e-a5e2-23f8f817a785/deploy-status)](https://app.netlify.com/sites/compassionate-pasteur-145063/deploys)
+
 Built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms)
 
 ## Local Development
